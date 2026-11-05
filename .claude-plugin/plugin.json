@@ -1,0 +1,9 @@
+{
+  "name": "fiatto",
+  "displayName": "Fiatto",
+  "version": "1.0.0",
+  "description": "Ready-made procurement and finance work on your own Fiatto data: open invoices, supplier dossiers, approval queues, trial balance reviews, receivables and contract renewals. Read only, within your own Fiatto permissions.",
+  "author": { "name": "Fiatto", "url": "https://fiatto.app" },
+  "homepage": "https://fiatto.app/en/platform/assistenten",
+  "keywords": ["procurement", "finance", "invoices", "accounting", "contracts"]
+}

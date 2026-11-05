@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fiatto": {
+      "type": "http",
+      "url": "https://fiatto.app/api/v1/mcp"
+    }
+  }
+}
